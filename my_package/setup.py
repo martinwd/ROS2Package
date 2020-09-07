@@ -14,9 +14,9 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='martinwd',
-    maintainer_email='martinwd@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer_email='martinwd@dukes.jmu.edu',
+    description='Beginner client libraries tutorials practice package',
+    license='Apache License 2.0',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
